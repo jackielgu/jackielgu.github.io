@@ -1,0 +1,39 @@
+[
+
+{"name":"flare.data.94124","imports":["flare.data.94102", "flare.data.94107", "flare.data.94112", "flare.data.94115", "flare.data.94119", "flare.data.94124", "flare.data.94130", "flare.data.94134"]},
+{"name":"flare.data.94110","imports":["flare.data.94102", "flare.data.94103", "flare.data.94107", "flare.data.94109", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94116", "flare.data.94121", "flare.data.94122", "flare.data.94124", "flare.data.94134", "flare.data.94140", "flare.data.94141"]},
+{"name":"flare.data.94102","imports":["flare.data.94103", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124", "flare.data.94133", "flare.data.94134", "flare.data.94142", "flare.data.94158"]},
+{"name":"flare.data.94134","imports":["flare.data.94102", "flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124"]},
+{"name":"flare.data.94103","imports":["flare.data.94102", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94122", "flare.data.94130", "flare.data.94133", "flare.data.94134", "flare.data.94142"]},
+{"name":"flare.data.94109","imports":["flare.data.94102", "flare.data.94103", "flare.data.94104", "flare.data.94108", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94116", "flare.data.94118","flare.data.94132", "flare.data.94133", "flare.data.94134", "flare.data.94142","flare.data.94147"]},
+{"name":"flare.data.94115","imports":["flare.data.94102", "flare.data.94103", "flare.data.94108", "flare.data.94117", "flare.data.94121", "flare.data.94133","flare.data.94134", "flare.data.94140", "flare.data.94142"]},
+{"name":"flare.data.94108","imports":["flare.data.94102", "flare.data.94110", "flare.data.94112", "flare.data.94115", "flare.data.94117", "flare.data.94122"]},
+{"name":"flare.data.94114","imports":["flare.data.94103", "flare.data.94106", "flare.data.94109", "flare.data.94112", "flare.data.94121", "flare.data.94124","flare.data.94127", "flare.data.94133", "flare.data.94134", "flare.data.94142","flare.data.94146"]},
+{"name":"flare.data.94130","imports":["flare.data.94103"]},
+{"name":"flare.data.94122","imports":["flare.data.94103", "flare.data.94109", "flare.data.94115", "flare.data.94116", "flare.data.94134"]},
+{"name":"flare.data.94117","imports":["flare.data.94103", "flare.data.94108", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94118"]},
+{"name":"flare.data.94107","imports":["flare.data.94103", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94119", "flare.data.94124", "flare.data.94132"]},
+{"name":"flare.data.94118","imports":["flare.data.94103", "flare.data.94121","flare.data.94122", "flare.data.94124"]},
+{"name":"flare.data.94112","imports":["flare.data.94103", "flare.data.94110", "flare.data.94116", "flare.data.94122", "flare.data.94124", "flare.data.94130", "flare.data.94131", "flare.data.94132", "flare.data.94134", "flare.data.94140"]},
+{"name":"flare.data.94116","imports":["flare.data.94103", "flare.data.94107", "flare.data.94112", "flare.data.94117", "flare.data.94122", "flare.data.94132", "flare.data.94133", "flare.data.94142"]},
+{"name":"flare.data.94121","imports":["flare.data.94109", "flare.data.94110", "flare.data.94114", "flare.data.94122", "flare.data.94124", "flare.data.94133"]},
+{"name":"flare.data.94132","imports":["flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124", "flare.data.94127", "flare.data.94134"]},
+{"name":"flare.data.94158","imports":["flare.data.94112"]},
+{"name":"flare.data.94131","imports":["flare.data.94112", "flare.data.94114", "flare.data.94117", "flare.data.94122", "flare.data.94124", "flare.data.94142", "flare.data.94146"]},
+{"name":"flare.data.94127","imports":["flare.data.94112", "flare.data.94116"]},
+{"name":"flare.data.94133","imports":["flare.data.94115", "flare.data.94117"]},
+{"name":"flare.data.94105","imports":["flare.data.94119"]},
+{"name":"flare.data.94123","imports":["flare.data.94131"]},
+{"name":"flare.data.94119", "imports":[]},
+{"name":"flare.data.94140", "imports":[]},
+{"name":"flare.data.94141", "imports":[]},
+{"name":"flare.data.94142", "imports":[]},
+{"name":"flare.data.94146", "imports":[]},
+{"name":"flare.data.94147", "imports":[]},
+{"name":"flare.data.94104", "imports":[]},
+{"name":"flare.data.94106", "imports":[]}
+
+
+
+
+]

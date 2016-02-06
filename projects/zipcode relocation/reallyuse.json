@@ -1,0 +1,39 @@
+[
+
+{"name":"flare.data.94124","imports":["flare.data.94102", "flare.data.94107", "flare.data.94112", "flare.data.94115", "flare.data.94119", "flare.data.94124", "flare.data.94130", "flare.data.94134"], "freqs":[3, 1, 1, 3, 1, 18, 1, 2]},
+{"name":"flare.data.94110","imports":["flare.data.94102", "flare.data.94103", "flare.data.94107", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94116", "flare.data.94121", "flare.data.94122", "flare.data.94124", "flare.data.94134", "flare.data.94140", "flare.data.94141"], "freqs":[3, 2, 1, 2, 5, 5, 1, 1, 2, 1, 1, 3, 1, 1, 1]},
+{"name":"flare.data.94102","imports":["flare.data.94102", "flare.data.94103", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124", "flare.data.94133", "flare.data.94134", "flare.data.94142", "flare.data.94158"], "freqs":[6, 2, 3, 2, 3, 1, 2, 1, 1, 2, 1]},
+{"name":"flare.data.94134","imports":["flare.data.94102", "flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124", "flare.data.94134"], "freqs":[4, 1, 4, 1, 5, 7]},
+{"name":"flare.data.94103","imports":["flare.data.94102", "flare.data.94103", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94122", "flare.data.94130", "flare.data.94133", "flare.data.94134", "flare.data.94142"], "freqs":[4, 5, 1, 1, 2, 1, 1, 1, 1, 3]},
+{"name":"flare.data.94109","imports":["flare.data.94102", "flare.data.94103", "flare.data.94104", "flare.data.94108", "flare.data.94109", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94116", "flare.data.94118","flare.data.94132", "flare.data.94133", "flare.data.94134", "flare.data.94142","flare.data.94147"], "freqs":[1, 6, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]},
+{"name":"flare.data.94115","imports":["flare.data.94102", "flare.data.94103", "flare.data.94108", "flare.data.94115", "flare.data.94117", "flare.data.94121", "flare.data.94133","flare.data.94134", "flare.data.94140", "flare.data.94142"], "freqs":[1, 1, 4, 1, 1, 1, 1, 2, 1, 2]},
+{"name":"flare.data.94108","imports":["flare.data.94102", "flare.data.94110", "flare.data.94112", "flare.data.94115", "flare.data.94117", "flare.data.94122"], "freqs":[1, 1, 1, 1, 1, 1]},
+{"name":"flare.data.94114","imports":["flare.data.94103", "flare.data.94106", "flare.data.94109", "flare.data.94112", "flare.data.94114", "flare.data.94121", "flare.data.94124","flare.data.94127", "flare.data.94133", "flare.data.94134", "flare.data.94142","flare.data.94146"], "freqs":[2, 1, 1, 1, 3, 3, 1, 1, 1, 1, 1, 1]},
+{"name":"flare.data.94130","imports":["flare.data.94103", "flare.data.94130"], "freqs": [2, 1]},
+{"name":"flare.data.94122","imports":["flare.data.94103", "flare.data.94109", "flare.data.94115", "flare.data.94116", "flare.data.94122", "flare.data.94134"], "freqs":[1, 1, 1, 2, 2, 1]},
+{"name":"flare.data.94117","imports":["flare.data.94103", "flare.data.94108", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94117", "flare.data.94118"], "freqs":[2, 1, 1, 1, 1, 4, 1]},
+{"name":"flare.data.94107","imports":["flare.data.94103", "flare.data.94107", "flare.data.94110", "flare.data.94112", "flare.data.94114", "flare.data.94115", "flare.data.94119", "flare.data.94124", "flare.data.94132"], "freqs":[1, 4, 2, 1, 1, 2, 1, 1, 1]},
+{"name":"flare.data.94118","imports":["flare.data.94103", "flare.data.94118", "flare.data.94121", "flare.data.94122", "flare.data.94124"], "freqs":[2, 2, 4, 1, 1]},
+{"name":"flare.data.94112","imports":["flare.data.94103", "flare.data.94110", "flare.data.94112", "flare.data.94116", "flare.data.94122", "flare.data.94124", "flare.data.94130", "flare.data.94131", "flare.data.94132", "flare.data.94134", "flare.data.94140"], "freqs":[1, 1, 10, 2, 1, 2, 1, 1, 1, 2, 1]},
+{"name":"flare.data.94116","imports":["flare.data.94103", "flare.data.94107", "flare.data.94112", "flare.data.94116", "flare.data.94117", "flare.data.94122", "flare.data.94132", "flare.data.94133", "flare.data.94142"], "freqs":[1, 1, 1, 1, 1, 2, 2, 2, 1]},
+{"name":"flare.data.94121","imports":["flare.data.94109", "flare.data.94110", "flare.data.94114", "flare.data.94121", "flare.data.94122", "flare.data.94124", "flare.data.94133"], "freqs":[1, 1, 1, 4, 2, 1, 1]},
+{"name":"flare.data.94132","imports":["flare.data.94110", "flare.data.94112", "flare.data.94117", "flare.data.94124", "flare.data.94127", "flare.data.94132", "flare.data.94134"], "freqs":[1, 2, 1, 1, 1, 1, 1]},
+{"name":"flare.data.94158","imports":["flare.data.94112", "flare.data.94158"], "freqs":[1, 1]},
+{"name":"flare.data.94131","imports":["flare.data.94112", "flare.data.94114", "flare.data.94117", "flare.data.94122", "flare.data.94124", "flare.data.94131", "flare.data.94142", "flare.data.94146"], "freqs":[1, 1, 1, 1, 1, 1, 2, 1]},
+{"name":"flare.data.94127","imports":["flare.data.94112", "flare.data.94116"], "freqs": [1, 1]},
+{"name":"flare.data.94133","imports":["flare.data.94115", "flare.data.94117", "flare.data.94133"], "freqs":[1, 1, 4]},
+{"name":"flare.data.94105","imports":["flare.data.94119"], "freqs":[1]},
+{"name":"flare.data.94123","imports":["flare.data.94123", "flare.data.94131"], "freqs":[1, 1]},
+{"name":"flare.data.94119", "imports":[], "freqs": []},
+{"name":"flare.data.94140", "imports":[], "freqs": []},
+{"name":"flare.data.94141", "imports":[], "freqs": []},
+{"name":"flare.data.94142", "imports":[], "freqs": []},
+{"name":"flare.data.94146", "imports":[], "freqs": []},
+{"name":"flare.data.94147", "imports":[], "freqs": []},
+{"name":"flare.data.94104", "imports":[], "freqs": []},
+{"name":"flare.data.94106", "imports":[], "freqs": []}
+
+
+
+
+]
