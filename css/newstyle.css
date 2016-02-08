@@ -3,9 +3,7 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
- /* font-family: 'Lora', serif;
- font-family: 'Rajdhani', sans-serif;*/
- font-family: 'Inconsolata', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 14px;
   line-height: 1.52;
   background-color: #f8f8f8;
@@ -15,7 +13,7 @@ body {
 
 
 body, a {
-  color: #171717;
+  color: #fffde0;
 }
 
 pre {
