@@ -6,7 +6,7 @@ body {
   font-family: 'Lora', serif;
   font-size: 14px;
   line-height: 1.52;
-  background-color: #fffde0;
+  background-color: #ffffff;
   text-rendering: optimizeLegibility;
   padding-left: 8%;
 }
@@ -109,7 +109,7 @@ hr {
 }
 
 .article header .date span {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
   padding: 0 0.7em;
 }
 
