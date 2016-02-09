@@ -260,10 +260,10 @@ footer .copy, footer .copy a {
 }
 
 img{
-	margin-top: 10px;
+	margin-top: 20px;
 	width: 80%;
-	max-width: 700px;
-	margin-bottom: 10px;
+	max-width: 300px;
+	margin-bottom: 20px;
 }
 
 .vid{
