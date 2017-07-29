@@ -199,7 +199,7 @@ footer .copy, footer .copy a {
 
 .menuBar li
 {
-	display: block;
+	display: inline;
 	width: 800px;
 	list-style-type: none;
 	
