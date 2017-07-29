@@ -198,17 +198,17 @@ footer .copy, footer .copy a {
   font-size: 1.6em;
 }
 
-ul#topbar .menuBar {
+#topbar.menuBar {
   text-align: center;
   padding-top: 15px;
 }
 
-ul#filter .menuBar {
+.menuBar {
   text-align: center;
 }
 
 #show-all {
-  padding-right: 5px;
+  padding-right: 10px;
   font-size: 12px;
 }
 
