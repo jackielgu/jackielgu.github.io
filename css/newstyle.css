@@ -82,9 +82,26 @@ hr {
 
 /* article */
 
+.writing-block {
+  margin: 3em 0 4em;
+    max-width: 400px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-top: 15px;
+}
+
+.writing-block ul {
+  margin: 0 1.4em 1.4em 4em;
+}
+
+
+
 .article {
   margin: 3em 0 4em;
-  max-width: 800px;
+    max-width: 750px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-top: 15px;
 }
 
 .article header {
@@ -96,7 +113,7 @@ hr {
   text-align: center;
   font-weight: 400;
   margin: 0.8em 0;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 .article header h2 a {
@@ -300,12 +317,7 @@ img{
   margin-right: 10%;*/
 }
 
-.article {
-  max-width: 300px;
-  margin: 0 auto;
-  padding-left: 50px;
-  padding-top: 15px;
-}
+
 
 img[alt="me"] { 
   max-width:  320px; 
