@@ -187,15 +187,30 @@ footer .copy, footer .copy a {
   color: #8e8e8e;
 }
 
-#iframe{
+/*#iframe{
   width: 100%;
   margin-left: -10%;
   height: 800px;
+}*/
+
+.name {
+  text-align: center;
+  font-size: 1.6em;
 }
 
+ul#topbar .menuBar {
+  text-align: center;
+  padding-top: 15px;
+}
 
+ul#filter .menuBar {
+  text-align: center;
+}
 
-
+#show-all {
+  padding-right: 5px;
+  font-size: 12px;
+}
 
 .menuBar li
 {
@@ -230,14 +245,14 @@ footer .copy, footer .copy a {
 	border-bottom: none;
 	
 }
-
+/*
 #name{
 	font-size: 2.1em;
   font-weight: 1000;
   margin: 0 auto;
  /* margin-left: 10%*/
   
-}
+}*/
 
 .highlight{
 	border-bottom: 1px dotted;
