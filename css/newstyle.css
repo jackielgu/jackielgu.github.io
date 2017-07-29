@@ -198,13 +198,9 @@ footer .copy, footer .copy a {
   font-size: 1.6em;
 }
 
-#topbar.menuBar {
-  text-align: center;
-  padding-top: 15px;
-}
-
 .menuBar {
   text-align: center;
+  padding-top: 10px;
 }
 
 #show-all {
