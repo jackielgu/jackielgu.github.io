@@ -8,7 +8,7 @@ body {
   line-height: 1.52;
   background-color: #ffffff;
   text-rendering: optimizeLegibility;
-  padding-left: 8%;
+  //padding-left: 8%;
 }
 
 
@@ -32,6 +32,7 @@ a:hover {
 }
 
 p {
+  width: 100%;
   margin-bottom: 1.52em;
 }
 
@@ -200,7 +201,6 @@ footer .copy, footer .copy a {
 
 .menuBar {
   text-align: center;
-  padding-top: 10px;
 }
 
 #show-all {
@@ -219,6 +219,11 @@ footer .copy, footer .copy a {
 	margin: 0px;
 }
 
+#topBar {
+  padding-top: 10px;
+  padding-bottom: -20px;
+}
+
 #topBar li{
 	padding-right: 20px;
 }
@@ -230,12 +235,13 @@ footer .copy, footer .copy a {
 
 #filters{
 	padding-right: 20px;
+  padding-bottom: 20px;
+  font-family: 'Mada', sans-serif;
 }
 .filter {
 	font-size: 12px;
 	padding-left: 10px;
 	padding-right: 10px;
-
 	font-weight: 200;
 	color: #666;
 	border-bottom: none;
@@ -252,6 +258,7 @@ footer .copy, footer .copy a {
 
 .highlight{
 	border-bottom: 1px dotted;
+  font-size: 16px;
 }
 
 .header {
@@ -285,8 +292,7 @@ img{
 }
 
 .content-wrap {
-  width: 90%;
-  max-width: 750px;
+  max-width: 100%;
   margin-top: 20px;
 
 /*  margin: 0 auto;
@@ -294,8 +300,28 @@ img{
   margin-right: 10%;*/
 }
 
+.article {
+  max-width: 300px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-top: 15px;
+}
+
 img[alt="me"] { 
   max-width:  320px; 
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.contact-pts {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-left: 30px;
+}
+
+.links {
+  text-align: center;
 }
 
 @media (max-width: 690px) {

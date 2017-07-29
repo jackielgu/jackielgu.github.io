@@ -23,7 +23,7 @@
 
   margin: 0px 0px 20px 20px;
   width: 280px;
-  height: 280px;
+  height: 270px;
   opacity: 1;
   /*background-color: #400;*/
   /*-webkit-backface-visibility: hidden;
@@ -55,6 +55,7 @@
 #thumb-title{
   position: absolute;
   width: 100%;
+  padding-top: 5px;
   /*height: 80px;*/
   top: 240px;
   left: 0px;
@@ -62,7 +63,9 @@
   background-color: #ffffff;
   color: #000;
   height: 40px;
-  font-size: 16px;
+  font-size: 14px;
+  font-family: 'Mada', sans-serif;
+
 }
 
 .isotope-item {
@@ -72,4 +75,11 @@
 .isotope-hidden.isotope-item {
   pointer-events: none;
   z-index: 1;
+}
+
+.highlight{
+  border-bottom: 1px dotted;
+  //border-bottom-width: 15px;
+  width: 60%;
+  color: #ca5646;
 }
