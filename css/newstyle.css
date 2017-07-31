@@ -243,7 +243,8 @@ footer .copy, footer .copy a {
 }
 
 #topBar li{
-	padding-right: 20px;
+  padding-left: 10px;
+	padding-right: 10px;
 }
 
 #filter li{
@@ -318,19 +319,30 @@ img{
   margin-right: 10%;*/
 }
 
+.contact {
+  max-width: 100%;
+}
+
+.content-wrapper {
+  max-width: 750px;
+  margin: 0 auto;
+}
 
 
 img[alt="me"] { 
-  max-width:  320px; 
-  display: block;
-  margin: 0 auto;
-  padding-bottom: 30px;
+  max-width:  250px; 
+  display: inline-block;
+  vertical-align: middle;
+  //margin: 0 auto;
+  //padding-top: 30px;
 }
 
 .contact-pts {
-  max-width: 500px;
-  margin: 0 auto;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 400px;
   padding-left: 30px;
+  padding-top: 30px;
 }
 
 .links {
