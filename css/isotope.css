@@ -35,6 +35,10 @@
   /*-webkit-backface-visibility: hidden;
   backface-visibility: hidden;*/
   overflow: hidden;
+
+  :hover {
+    background-color:white;
+  }
 }
 
 #container > div > * {
@@ -49,6 +53,9 @@
   min-width: 280px;
   max-width: 300px;
   /*min-height: 100%;*/
+  :hover {
+    background-color: white;
+  }
 }
 
 #container > div a {
@@ -88,4 +95,23 @@
   //border-bottom-width: 15px;
   width: 60%;
   color: #ca5646;
+}
+
+.overlay {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
+.overlay:hover {
+  opacity: .5;
+}
+
+.fade {
+  background-color: white;
+}
+
+.box:hover {
+  background-color: white;
 }
