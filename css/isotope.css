@@ -31,9 +31,6 @@
   width: 280px;
   height: 270px;
   opacity: 1;
-  /*background-color: #400;*/
-  /*-webkit-backface-visibility: hidden;
-  backface-visibility: hidden;*/
   overflow: hidden;
 
   :hover {
@@ -69,7 +66,6 @@
   position: absolute;
   width: 100%;
   padding-top: 5px;
-  /*height: 80px;*/
   top: 240px;
   left: 0px;
   text-align: center;
@@ -81,9 +77,6 @@
 
 }
 
-.isotope-item {
-  z-index: 2;
-}
 
 .isotope-hidden.isotope-item {
   pointer-events: none;
@@ -92,9 +85,8 @@
 
 .highlight{
   border-bottom: 1px dotted;
-  //border-bottom-width: 15px;
-  width: 60%;
-  color: #ca5646;
+  width: 50%;
+  color: #96e9e9;
 }
 
 .overlay {

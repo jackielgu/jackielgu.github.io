@@ -3,8 +3,8 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-  font-family: 'Lora', serif;
-  font-size: 14px;
+  font-family: 'Crimson Text', serif;
+  font-size: 16px;
   line-height: 1.52;
   background-color: #ffffff;
   text-rendering: optimizeLegibility;
@@ -12,14 +12,23 @@ body {
 }
 
 
-body, a {
+body{
   color: #171717;
 }
 
+a {
+  text-decoration: none !important;
+  color: #808080;
+}
 
 a:hover {
-  color: #ff8000;
-  text-decoration: underline;
+  color: #96e9e9;
+}
+
+.click-here {
+  font-family: 'Mada', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
 }
 
 p {
@@ -28,10 +37,10 @@ p {
 }
 
 h1 {
-  font-size: 1.4em;
-  margin-bottom: 0.4em;
-  font-style: italic;
-  font-weight: 400;
+  font-size: 1.6em;
+  margin-bottom: 0.3em;
+  //font-style: italic;
+  font-weight: 700;
   margin: 0.4em 0;
 }
 
@@ -145,7 +154,9 @@ hr {
 }
 
 .more, .date {
+  font-family: 'Mada', sans-serif;
   text-transform: lowercase;
+  font-size: 14px;
   //font-weight: 700;
   text-rendering: auto;
   letter-spacing: 1px;
@@ -159,6 +170,7 @@ footer {
 }
 
 footer .nav {
+
   text-align: center;
   margin-top: 5em;
   margin-bottom: 3.5em;
@@ -168,6 +180,7 @@ footer .nav a {
   padding: 0 0.5em;
   font-size: 1.2em;
   text-decoration: none;
+  color: #171717;
 }
 
 footer .about {
@@ -211,7 +224,7 @@ footer .copy, footer .copy a {
 }
 
 #show-all {
-  padding-right: 10px;
+  margin-right: 10px;
   font-size: 12px;
 }
 
@@ -223,12 +236,14 @@ footer .copy, footer .copy a {
 	
 	font-weight: 300;
 	cursor: pointer;
-	margin: 0px;
 }
 
 #topBar {
   padding-top: 10px;
   padding-bottom: -20px;
+  font-family: 'Mada', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
 }
 
 #topBar li{
@@ -247,8 +262,8 @@ footer .copy, footer .copy a {
 }
 .filter {
 	font-size: 12px;
-	padding-left: 10px;
-	padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 	font-weight: 200;
 	color: #666;
 	border-bottom: none;
