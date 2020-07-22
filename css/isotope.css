@@ -1,7 +1,7 @@
 #container{
-  //margin: 0 auto;
+  margin: 0 auto;
   //padding: 0;
-  max-width: 1000px;
+  max-width: 95%;
   list-style: none;
   /*text-align: center;*/
   font-size: 0px;
@@ -66,7 +66,7 @@
   position: absolute;
   width: 100%;
   padding-top: 5px;
-  top: 240px;
+  top: 220px;
   left: 0px;
   text-align: center;
   background-color: #ffffff;
