@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: #7696ae;
+  color: #547791;
 }
 
 .click-here {
@@ -82,7 +82,7 @@ hr {
 
 .writing-block {
   margin: 3em 0 4em;
-    max-width: 400px;
+    max-width: 500px;
   margin: 0 auto;
   padding-left: 50px;
   padding-top: 15px;
@@ -362,6 +362,29 @@ img[alt="me"] {
 
 p {
   margin: 0 auto;
+}
+
+.photo-container {
+  max-width: 70%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.photos {
+  text-align: center;
+}
+
+.photo {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2em 2em;
+  width: fit-content;
+  display: inline-block;
+}
+
+img[alt="photo"] {
+  max-width: 30%;
+
 }
 
 }

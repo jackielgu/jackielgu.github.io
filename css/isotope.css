@@ -86,7 +86,7 @@
 .highlight{
   border-bottom: 1px dotted;
   width: 50%;
-  color: #96e9e9;
+  color: #547791;
 }
 
 .overlay {
@@ -106,4 +106,22 @@
 
 .box:hover {
   background-color: white;
+}
+
+.photo-container {
+  max-width: 70%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.photos {
+  text-align: center;
+}
+
+.photo {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2em 2em;
+  width: fit-content;
+  display: inline-block;
 }
