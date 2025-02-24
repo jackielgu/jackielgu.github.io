@@ -3,12 +3,12 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-  font-family: 'Crimson Text', serif;
+  font-family: 'Mada', sans-serif;
   font-size: 16px;
-  line-height: 1.52;
+  line-height: 1.42;
   background-color: #ffffff;
   text-rendering: optimizeLegibility;
-  //padding-left: 8%;
+  padding-left: 4%;
 }
 
 
@@ -18,7 +18,7 @@ body{
 
 a {
   text-decoration: none !important;
-  color: #808080;
+  color: #b8b8b8;
 }
 
 a:hover {
@@ -27,8 +27,9 @@ a:hover {
 
 .click-here {
   font-family: 'Mada', sans-serif;
-  font-size: 14px;
-  letter-spacing: 1px;
+  color: #b8b8b8;
+  font-size: 12px;
+  letter-spacing: 2px;
 }
 
 p {
@@ -39,8 +40,7 @@ p {
 h1 {
   font-size: 1.4em;
   margin-bottom: 0.3em;
-  //font-style: italic;
-  font-weight: 700;
+  /* font-weight: 700; */
   margin: 0.4em 0;
 }
 
@@ -132,6 +132,14 @@ hr {
   margin: 0 auto;
 }
 
+.article-title {
+  font-size: 1.2em;
+  line-height: 1.2 !important;
+  margin-bottom: 0.2em;
+  margin: 0.4em 0;
+
+}
+
 .article.intro .content p {
   display: inline;
 }
@@ -155,9 +163,9 @@ hr {
 
 .more, .date {
   font-family: 'Mada', sans-serif;
-  text-transform: lowercase;
-  font-size: 14px;
-  //font-weight: 700;
+  /* text-transform: lowercase; */
+  font-size: 12px;
+  font-weight: 400;
   text-rendering: auto;
   letter-spacing: 1px;
 }
@@ -217,6 +225,8 @@ footer .copy, footer .copy a {
 .name {
   text-align: center;
   font-size: 1.6em;
+  letter-spacing: 2px;
+
 }
 
 .menuBar {
@@ -291,7 +301,7 @@ footer .copy, footer .copy a {
 .header h1 {
   font-size: 2.6em;
   text-align: center;
-  font-weight: 700;
+  /* font-weight: 700; */
   /*margin: 0;*/
 }
 
@@ -351,6 +361,20 @@ img[alt="me"] {
   margin-top: 30px;
 }
 
+.recognition {
+  font-family: 'Mada', sans-serif;
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.box {
+  border: solid black 2px;
+}
+
+/* .overlay {
+  border: solid black 1px !important;
+} */
+
 ///// PHOTO PAGE 
 
 .photo-container {
@@ -389,8 +413,8 @@ img[alt="me"] {
 	display: block;
 }
 
-p {
+/* p {
   margin: 0 auto;
-}
+} */
 
 }

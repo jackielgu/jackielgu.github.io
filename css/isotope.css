@@ -28,8 +28,8 @@
   float: left;
 
   margin: 0px 0px 20px 20px;
-  width: 280px;
-  height: 270px;
+  width: 260px;
+  height: 300px;
   opacity: 1;
   overflow: hidden;
 
@@ -47,7 +47,7 @@
   display: block;
   margin: 0 auto;
   border: none;
-  min-width: 280px;
+  min-width: 260px;
   max-width: 300px;
   /*min-height: 100%;*/
   :hover {
@@ -62,11 +62,11 @@
   left: 0;
 }
 
-#thumb-title{
+.thumb-title{
   position: absolute;
   width: 100%;
   padding-top: 5px;
-  top: 220px;
+  /* bottom: 20px; */
   left: 0px;
   text-align: center;
   background-color: #ffffff;
@@ -74,6 +74,7 @@
   height: 40px;
   font-size: 14px;
   font-family: 'Mada', sans-serif;
+  line-height: 1.3em !important;
 
 }
 
