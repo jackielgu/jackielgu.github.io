@@ -63,8 +63,10 @@
 }
 
 .thumb-title{
-  position: absolute;
-  width: 100%;
+  position: relative;
+  width: 90%;
+  display: block;
+  margin: 0 auto;
   padding-top: 5px;
   /* bottom: 20px; */
   left: 0px;
