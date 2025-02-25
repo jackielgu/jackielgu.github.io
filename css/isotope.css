@@ -1,17 +1,8 @@
 #container{
-  /* margin: 0 auto;
-  max-width: 95%;
-  list-style: none;
-  text-align: center;
-  font-size: 0px; */
-
-  display: flex;
-  flex-wrap: wrap; /* Allows items to wrap into multiple rows */
-  justify-content: center; /* Centers items horizontally */
-  gap: 20px; /* Replaces margin for even spacing */
-  max-width: 95%;
   margin: 0 auto;
+  max-width: 95%;
   list-style: none;
+  /*text-align: center;*/
   font-size: 0px;
   
 }
@@ -32,16 +23,10 @@
 /* ---- .element-item ---- */
 
 #container > div {
-  /* position: relative;
+  position: relative;
   float: left;
 
   margin: 0px 0px 20px 20px;
-  width: 260px;
-  height: 300px;
-  opacity: 1;
-  overflow: hidden; */
-
-  position: relative;
   width: 260px;
   height: 300px;
   opacity: 1;

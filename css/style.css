@@ -9,6 +9,11 @@ body {
   background-color: #ffffff;
   text-rendering: optimizeLegibility;
   padding-left: 4%;
+
+  @media (max-width: 710px) {
+    padding-left: 2% !important;
+
+  }
 }
 
 
@@ -344,8 +349,13 @@ img[alt="me"] {
   max-width:  250px; 
   display: inline-block;
   vertical-align: middle;
-  //margin: 0 auto;
-  //padding-top: 30px;
+
+  @media (max-width: 710px) {
+    display: block;
+    margin: 0 auto;
+
+  }
+
 }
 
 .contact-pts {
@@ -354,6 +364,13 @@ img[alt="me"] {
   max-width: 400px;
   padding-left: 30px;
   padding-top: 30px;
+
+  @media (max-width: 710px) {
+    display: block;
+    margin: 0 auto;
+    padding-left: 20px;
+
+  }
 }
 
 .links {
